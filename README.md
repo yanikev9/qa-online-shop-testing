@@ -1,23 +1,34 @@
 # QA Online Shop Testing Project
 
 ## Project Description
-Manual testing of a demo online shop.
+This project demonstrates manual and API testing of a demo online shop.
+
+The goal of the project is to practice QA skills and create a testing portfolio.
 
 ## Scope
-- Registration
-- Login
-- Cart
-- Delivery calculation
-- API testing (/register)
+The following functionality is covered by testing:
+
+- User registration
+- User login
+- Cart functionality
+- Delivery cost calculation
+- Order checkout
+- API endpoint testing
 
 ## Testing Types
 - Functional testing
 - Negative testing
 - Boundary value analysis
 - Equivalence partitioning
-- API testing
+- Regression testing
 
 ## Tools
 - Postman
-- SQL
 - Chrome DevTools
+- SQL (basic queries)
+
+## Project Structure
+checklists – testing checklists  
+test-cases – detailed test cases  
+bug-reports – documented bugs  
+postman – API test collections
