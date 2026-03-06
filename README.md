@@ -35,7 +35,7 @@ The following functionality was covered during testing:
 
 - Postman
 - Chrome DevTools
-- SQL (basic queries)
+- SQL
 - GitHub for documentation
 
 ---
